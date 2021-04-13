@@ -9,5 +9,5 @@ Run Wordpress on Docker Container
 
 **data:** mysql data files
 
-**wp-constent:** wordpress content files
+**wp-content:** wordpress content files
  
