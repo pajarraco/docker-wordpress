@@ -5,7 +5,7 @@ Run Wordpress on Docker Container
 
 > docker-compose  up -d --build
 
-## Folder
+## Folders
 
 **data:** mysql data files
 
