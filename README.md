@@ -1,6 +1,6 @@
 # docker-wordpress
 Run Wordpress on Docker Container
 
-## Running
+## To Run
 
 > docker-compose  up -d --build
